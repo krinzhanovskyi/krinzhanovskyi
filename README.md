@@ -1,6 +1,6 @@
 # Hi, I'm Oleksander Krizhanovskyi 👋
 
-I'm a high school student in my final year, passionate about **Python programming** and **backend development**. I’ve worked on projects like economic analysis using Python and linear regression, and I have hands-on experience managing vibrant community servers on Discord and Telegram. I’m excited about exploring **artificial intelligence**, **data analysis**, and **software development**, and I’m always eager to learn and adapt to new technologies.
+I’m a high school student in Zurich, Switzerland, finishing my final year in 2025 under the guidance of [@dkrizhanovskyi](https://github.com/dkrizhanovskyi). I’m passionate about Python programming, backend development, and exploring artificial intelligence and data analysis. With experience in economic analysis projects using linear regression and managing thriving Discord and Telegram communities, I love solving technical challenges and fostering collaboration. I’m a fast learner, adaptable, and always excited to dive into new technologies.
 
 ---
 
