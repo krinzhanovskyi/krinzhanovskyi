@@ -50,7 +50,7 @@ I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2
   *2024 - 2025*
   
 - **High School**
-- "Im Birch" School
+  "Im Birch" School
   Zurich, Switzerland  
   *2024 - 2025*
 
