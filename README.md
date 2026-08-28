@@ -1,6 +1,6 @@
 # Hi, I'm Oleksander Krizhanovskyi 👋
 
-I’m a high school student in Zurich, Switzerland, finishing my final year in 2025 under the guidance of [@dkrizhanovskyi](https://github.com/dkrizhanovskyi). I’m passionate about Python programming, backend development, and exploring artificial intelligence and data analysis. With experience in economic analysis projects using linear regression and managing thriving Discord and Telegram communities, I love solving technical challenges and fostering collaboration. I’m a fast learner, adaptable, and always excited to dive into new technologies.
+I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2025 under the guidance of [@dkrizhanovskyi](https://github.com/dkrizhanovskyi). I’m passionate about Python programming, backend development, and exploring artificial intelligence and data analysis. With experience in economic analysis projects using linear regression and managing thriving Discord and Telegram communities, I love solving technical challenges and fostering collaboration. I’m a fast learner, adaptable, and always excited to dive into new technologies.
 
 ---
 
@@ -19,7 +19,7 @@ I’m a high school student in Zurich, Switzerland, finishing my final year in 2
 ## Projects
 
 ### Discord Server for Web3 Community  
-*March 2025 - Present*  
+*March 2025 - August 2025*  
 - Managed a Discord server for a web3 community, boosting active participation by **50%** through unique channels and events.  
 - Implemented **automated moderation tools** and **blockchain integrations**, enabling secure wallet connections and growing user interactions by **60%** in the first quarter.  
 - Introduced a **gamified rewards system**, increasing server activity by **40%** within two months.
@@ -39,10 +39,20 @@ I’m a high school student in Zurich, Switzerland, finishing my final year in 2
 ---
 
 ## Education
-
-- **High School**  
+- **IT Apprenticeship as Application developer**
+  NZZ  
   Zurich, Switzerland  
-  *Expected Graduation: 2025*
+  *2024 - 2025*
+
+- **10 School year**
+  "Viventa TaI" School
+  Zurich, Switzerland  
+  *2024 - 2025*
+  
+- **High School**
+- "Im Birch" School
+  Zurich, Switzerland  
+  *2024 - 2025*
 
 ---
 
