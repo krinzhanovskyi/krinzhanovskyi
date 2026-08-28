@@ -8,8 +8,9 @@ I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2
 
 - **Python**  
 - **Backend Development**  
-- **Community Management** (Discord, Telegram)  
-- **Data Analysis** (Linear Regression)  
+- **Community Management** (Discord, Telegram, Instagram)  
+- **Data Analysis** (Linear Regression)
+- **Focusing**  
 - **Fast Learning**  
 - **Adaptability**  
 - **Technical Patience**  
@@ -40,9 +41,9 @@ I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2
 
 ## Education
 - **IT Apprenticeship as Application developer**
-  NZZ  
-  Zurich, Switzerland  
-  *2024 - 2025*
+  Neue Zürcher Zeitungen AG
+  Zurich, Switzerland 
+  *2026 - present*
 
 - **10 School year**
   "Viventa TaI" School
@@ -59,4 +60,6 @@ I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2
 ## Get in Touch
 
 Feel free to reach out!  
-- 📧 Email: [karatelkros@gmail.com](mailto:karatelkros@gmail.com) 
+- 📧 Email: [krizhanovskyi.alex@gmail.com](mailto:krizhanovskyi.alex@gmail.com) 
+- 📧 TG:    [krinzhanovskyi.telegram](https://t.me/krinzhanovskyi)
+- 📧 DS:    [krinzhanovskyi.discord](https://discord.com/users/1120770377333870757)
