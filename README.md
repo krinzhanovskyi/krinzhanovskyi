@@ -40,20 +40,20 @@ I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2
 ---
 
 ## Education
-- **IT Apprenticeship as Application developer**
-  Neue Zürcher Zeitungen AG
-  Zurich, Switzerland 
-  *2026 - present*
+- **IT Apprenticeship as Application developer**<br>
+  Neue Zürcher Zeitungen AG<br>
+  Zurich, Switzerland <br>
+  *2026 - present*<br>
 
-- **10 School year**
-  "Viventa TaI" School
-  Zurich, Switzerland  
-  *2024 - 2025*
+- **10 year of School**<br>
+  "Viventa TaI" School<br>
+  Zurich, Switzerland  <br>
+  *2024 - 2025*<br>
   
-- **High School**
-  "Im Birch" School
-  Zurich, Switzerland  
-  *2024 - 2025*
+- **High School**<br>
+  "Im Birch" School<br>
+  Zurich, Switzerland  <br>
+  *2024 - 2025*<br>
 
 ---
 
