@@ -46,9 +46,9 @@ I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2
   *2026 - present*<br>
 
 - **10 year of School**<br>
-  "Viventa TaI" School<br>
+  "Viventa Technology and Computer Science" School<br>
   Zurich, Switzerland  <br>
-  *2024 - 2025*<br>
+  *2025 - 2026*<br>
   
 - **High School**<br>
   "Im Birch" School<br>
