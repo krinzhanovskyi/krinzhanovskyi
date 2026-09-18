@@ -1,35 +1,38 @@
-# Hi, I'm Oleksander Krizhanovskyi 👋
+# Hi, I'm Oleksandr Krizhanovskyi 👋
 
-I’m a student in Zurich, NZZ worker, Switzerland, finishing my final year in 2025 under the guidance of [@dkrizhanovskyi](https://github.com/dkrizhanovskyi). I’m passionate about Python programming, backend development, and exploring artificial intelligence and data analysis. With experience in economic analysis projects using linear regression and managing thriving Discord and Telegram communities, I love solving technical challenges and fostering collaboration. I’m a fast learner, adaptable, and always excited to dive into new technologies.
-
----
+I’m an Application Development apprentice at Neue Zürcher Zeitung AG (NZZ) based in Zurich, Switzerland. I’m passionate about Python programming, backend architecture, and exploring artificial intelligence, desktop tools, and data analysis. With a experience in building small analytical projects and managing active technical communities, I enjoy solving practical engineering challenges and writing code.
 
 ## Skills
 
-- **Python**
-- **Backend Development**
-- **Community Management** (Discord, Telegram, Instagram)
-- **Data Analysis** (Linear Regression)
-- **Focusing**
-- **Fast Learning**
-- **Adaptability**
-- **Technical Patience**
-
----
+- **Languages:** Python, JavaScript, SQL, HTML/CSS
+- **Backend & Networking:** TCP/IP Socket Programming, Multithreading, REST APIs
+- **GUI & Automation:** PyQt6, CustomTkinter, Desktop Automation
+- **Data & AI:** Linear Regression, Pandas, NumPy, Prompt Engineering
+- **Tools & Environments:** Git & GitHub, VS Code, Filius, Docker, WSL, Windows
+- **Community & Collaboration:** Technical Community Management (Discord, Telegram)
 
 ## Projects
 
 ### Discord Server for Web3 Community
 
 _March 2025 - August 2025_
+[View Server](https://discord.gg/ssWC99sJHg)
 
 - Managed a Discord server for a web3 community, boosting active participation by **50%** through unique channels and events.
 - Implemented **automated moderation tools** and **blockchain integrations**, enabling secure wallet connections and growing user interactions by **60%** in the first quarter.
 - Introduced a **gamified rewards system**, increasing server activity by **40%** within two months.
 
+### Discord To-do Bot
+
+_Mai 2025_
+[View Project](https://github.com/krinzhanovskyi/reincarnation-bot)
+
+- Developed a functional bot for task management with full support for **Discord Commands**, improving the efficiency of process organisation on the server.
+- Integrated a **database** SQLite for the reliable storage of user tasks and implemented an **automatic reminder system** to help track deadlines.
+
 ### Backend Basics Python
 
-_November 2024 - January 2025_  
+_November 2024 - January 2025_
 [View Project](https://github.com/krinzhanovskyi/my-backend-map)
 
 - Built a project to master **TCP server-client communication**, **multithreading**, **error handling**, and **network programming** using Python.
@@ -37,36 +40,42 @@ _November 2024 - January 2025_
 
 ### Inflation Analysis Project
 
-_October 2024 - November 2024_  
+_October 2024 - November 2024_
 [View Project](https://github.com/krinzhanovskyi/inflation_analyse_project)
 
 - Analyzed **inflation and GDP trends** using Python and linear regression.
 - Shared insights on industry trends and led discussions to foster collaborative learning within the community.
 
----
-
 ## Education
 
-- **IT Apprenticeship as Application developer**<br>
-  Neue Zürcher Zeitungen AG<br>
-  Zurich, Switzerland <br>
-  _2026 - present_<br>
+- **VET Apprenticeship: Application Developer (Informatiker EFZ)**
+  Neue Zürcher Zeitung AG (NZZ)
+  _In cooperation with BBW & ZLI_
+  Zurich, Switzerland _2026 - Present_
 
-- **10 year of School**<br>
-  "Viventa Technology and Computer Science" School<br>
-  Zurich, Switzerland <br>
-  _2025 - 2026_<br>
-- **High School**<br>
-  "Im Birch" School<br>
-  Zurich, Switzerland <br>
-  _2024 - 2025_<br>
+- **10th School Year (Technology & Computer Science)**
+  Fachschule Viventa
+  Zurich, Switzerland
+  _2025 - 2026_
 
----
+- **Secondary School (Sekundarstufe)**
+  Schule Im Birch
+  Zurich, Switzerland
+  _2023 - 2025_
 
 ## Get in Touch
 
 Feel free to reach out!
 
 - 📧 Email: [krizhanovskyi.gmail](mailto:krizhanovskyi.alex@gmail.com)
+
 - 📧 TG: [krizhanovskyi.telegram](https://t.me/krinzhanovskyi)
+
 - 📧 DS: [krizhanovskyi.discord](https://discord.com/users/1120770377333870757)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krinzhanovskyi&show_icons=true&theme=tokyonight&hide_border=true" alt="Oleksandr's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krinzhanovskyi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
