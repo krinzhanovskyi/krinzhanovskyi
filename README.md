@@ -72,10 +72,3 @@ Feel free to reach out!
 - 📧 TG: [krizhanovskyi.telegram](https://t.me/krinzhanovskyi)
 
 - 📧 DS: [krizhanovskyi.discord](https://discord.com/users/1120770377333870757)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krinzhanovskyi&show_icons=true&theme=tokyonight&hide_border=true" alt="Oleksandr's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krinzhanovskyi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
