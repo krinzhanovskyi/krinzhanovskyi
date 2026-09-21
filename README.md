@@ -15,7 +15,7 @@ I’m an Application Development apprentice at Neue Zürcher Zeitung AG (NZZ) ba
 
 ### Discord Server for Web3 Community
 
-_March 2025 - August 2025_
+_March 2025 - August 2025_  
 [View Server](https://discord.gg/ssWC99sJHg)
 
 - Managed a Discord server for a web3 community, boosting active participation by **50%** through unique channels and events.
@@ -24,7 +24,7 @@ _March 2025 - August 2025_
 
 ### Discord To-do Bot
 
-_Mai 2025_
+_Mai 2025_  
 [View Project](https://github.com/krinzhanovskyi/reincarnation-bot)
 
 - Developed a functional bot for task management with full support for **Discord Commands**, improving the efficiency of process organisation on the server.
@@ -32,7 +32,7 @@ _Mai 2025_
 
 ### Backend Basics Python
 
-_November 2024 - January 2025_
+_November 2024 - January 2025_  
 [View Project](https://github.com/krinzhanovskyi/my-backend-map)
 
 - Built a project to master **TCP server-client communication**, **multithreading**, **error handling**, and **network programming** using Python.
@@ -40,7 +40,7 @@ _November 2024 - January 2025_
 
 ### Inflation Analysis Project
 
-_October 2024 - November 2024_
+_October 2024 - November 2024_  
 [View Project](https://github.com/krinzhanovskyi/inflation_analyse_project)
 
 - Analyzed **inflation and GDP trends** using Python and linear regression.
