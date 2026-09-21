@@ -73,3 +73,7 @@ Feel free to reach out!
 - 📧 TG: [krizhanovskyi.telegram](https://t.me/krinzhanovskyi)
 
 - 📧 DS: [krizhanovskyi.discord](https://discord.com/users/1120770377333870757)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krinzhanovskyi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
