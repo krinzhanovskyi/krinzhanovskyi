@@ -76,4 +76,7 @@ Feel free to reach out!
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krinzhanovskyi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=krinzhanovskyi&show_icons=true&theme=github_dark" alt="krinzhanovskyi's GitHub stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krinzhanovskyi&layout=compact&theme=github_dark&hide=html" alt="Top Languages" height="170" />
+</p>
