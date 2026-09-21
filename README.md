@@ -48,19 +48,19 @@ _October 2024 - November 2024_
 
 ## Education
 
-- **VET Apprenticeship: Application Developer (Informatiker EFZ)**
-  Neue Zürcher Zeitung AG (NZZ)
-  _In cooperation with BBW & ZLI_
+- **VET Apprenticeship: Application Developer (Informatiker EFZ)**  
+  Neue Zürcher Zeitung AG (NZZ)  
+  _In cooperation with BBW & ZLI_  
   Zurich, Switzerland _2026 - Present_
 
-- **10th School Year (Technology & Computer Science)**
-  Fachschule Viventa
-  Zurich, Switzerland
+- **10th School Year (Technology & Computer Science)**  
+  Fachschule Viventa  
+  Zurich, Switzerland  
   _2025 - 2026_
 
-- **Secondary School (Sekundarstufe)**
-  Schule Im Birch
-  Zurich, Switzerland
+- **Secondary School (Sekundarstufe)**  
+  Schule Im Birch  
+  Zurich, Switzerland  
   _2023 - 2025_
 
 ## Get in Touch
