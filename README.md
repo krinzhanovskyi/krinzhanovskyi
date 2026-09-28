@@ -13,6 +13,15 @@ I’m an Application Development apprentice at Neue Zürcher Zeitung AG (NZZ) ba
 
 ## Projects
 
+### Parcer project
+
+_August 2026 - October 2026_  
+[View Project](https://github.com/krinzhanovskyi/parcer_reincarnation)
+
+- Developed a Python command-line utility for securely parsing and cleaning financial transaction data from CSV files.
+- Designed a modular architecture using `dataclasses` with a strict separation of logic (validation, metric calculation, logging).
+- Set up exception handling and wrote unit tests (pytest) to verify edge cases and protect against invalid data.
+
 ### Discord Server for Web3 Community
 
 _March 2025 - August 2025_  
