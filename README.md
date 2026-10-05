@@ -13,6 +13,16 @@ I’m an Application Development apprentice at Neue Zürcher Zeitung AG (NZZ) ba
 
 ## Projects
 
+### Folder widjet project
+
+_August 2026 - October 2026_  
+[View Project](https://github.com/krinzhanovskyi/windows_reincarnation)
+
+- Created an app to preview folders on the computer’s desktop using an API Windows query.
+- Designed an interactive window displaying the contents of the folders, including the file extension and icon.
+- Сonfigured logging and folder recognition on the desktop.
+- Created a light and a dark theme for the settings extension and the window.
+
 ### Parcer project
 
 _August 2026 - October 2026_  
