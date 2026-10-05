@@ -25,7 +25,7 @@ _August 2026 - October 2026_
 
 ### Parcer project
 
-_August 2026 - October 2026_  
+_December 2025 - October 2026_  
 [View Project](https://github.com/krinzhanovskyi/parcer_reincarnation)
 
 - Developed a Python command-line utility for securely parsing and cleaning financial transaction data from CSV files.
