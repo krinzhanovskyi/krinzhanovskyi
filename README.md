@@ -96,6 +96,6 @@ Feel free to reach out!
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=krinzhanovskyi&show_icons=true&theme=github_dark" alt="krinzhanovskyi's GitHub stats" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krinzhanovskyi&layout=compact&theme=github_dark&hide=html" alt="Top Languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=krinzhanovskyi&show_icons=true&theme=github_dark" alt="krizhanovskyi's GitHub stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krinzhanovskyi&layout=compact&theme=github_dark&hide=html" alt="Top Languages of Oleksandr" height="170" />
 </p>
